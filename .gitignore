@@ -54,7 +54,7 @@ coverage.xml
 # Translations
 *.mo
 *.pot
-
+catboost_info/
 artifacts/
 # Django stuff:
 *.log
